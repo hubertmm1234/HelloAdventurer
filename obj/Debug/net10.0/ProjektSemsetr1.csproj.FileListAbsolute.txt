@@ -1,0 +1,14 @@
+C:\Users\Hubert\Desktop\StudiaProjekty\ProjektSemsetr1\bin\Debug\net10.0\ProjektSemsetr1.exe
+C:\Users\Hubert\Desktop\StudiaProjekty\ProjektSemsetr1\bin\Debug\net10.0\ProjektSemsetr1.deps.json
+C:\Users\Hubert\Desktop\StudiaProjekty\ProjektSemsetr1\bin\Debug\net10.0\ProjektSemsetr1.runtimeconfig.json
+C:\Users\Hubert\Desktop\StudiaProjekty\ProjektSemsetr1\bin\Debug\net10.0\ProjektSemsetr1.dll
+C:\Users\Hubert\Desktop\StudiaProjekty\ProjektSemsetr1\bin\Debug\net10.0\ProjektSemsetr1.pdb
+C:\Users\Hubert\Desktop\StudiaProjekty\ProjektSemsetr1\obj\Debug\net10.0\ProjektSemsetr1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Hubert\Desktop\StudiaProjekty\ProjektSemsetr1\obj\Debug\net10.0\ProjektSemsetr1.AssemblyInfoInputs.cache
+C:\Users\Hubert\Desktop\StudiaProjekty\ProjektSemsetr1\obj\Debug\net10.0\ProjektSemsetr1.AssemblyInfo.cs
+C:\Users\Hubert\Desktop\StudiaProjekty\ProjektSemsetr1\obj\Debug\net10.0\ProjektSemsetr1.csproj.CoreCompileInputs.cache
+C:\Users\Hubert\Desktop\StudiaProjekty\ProjektSemsetr1\obj\Debug\net10.0\ProjektSemsetr1.dll
+C:\Users\Hubert\Desktop\StudiaProjekty\ProjektSemsetr1\obj\Debug\net10.0\refint\ProjektSemsetr1.dll
+C:\Users\Hubert\Desktop\StudiaProjekty\ProjektSemsetr1\obj\Debug\net10.0\ProjektSemsetr1.pdb
+C:\Users\Hubert\Desktop\StudiaProjekty\ProjektSemsetr1\obj\Debug\net10.0\ProjektSemsetr1.genruntimeconfig.cache
+C:\Users\Hubert\Desktop\StudiaProjekty\ProjektSemsetr1\obj\Debug\net10.0\ref\ProjektSemsetr1.dll
