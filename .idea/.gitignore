@@ -1,8 +1,20 @@
+<<<<<<< HEAD
 # Default ignored files
+=======
+﻿# Default ignored files
+>>>>>>> 7b28d2548375a3b05c7a9d6fdb51e0adcd344a1d
 /shelf/
 /workspace.xml
 # Editor-based HTTP Client requests
 /httpRequests/
+<<<<<<< HEAD
+=======
+# Rider ignored files
+/modules.xml
+/contentModel.xml
+/projectSettingsUpdater.xml
+/.idea.HelloWorkshop2.iml
+>>>>>>> 7b28d2548375a3b05c7a9d6fdb51e0adcd344a1d
 # Ignored default folder with query files
 /queries/
 # Datasource local storage ignored files

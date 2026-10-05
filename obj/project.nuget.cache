@@ -1,8 +1,14 @@
 {
   "version": 2,
+<<<<<<< HEAD
   "dgSpecHash": "t8OfcpaJZww=",
   "success": true,
   "projectFilePath": "C:\\Users\\Hubert\\Desktop\\StudiaProjekty\\ProjektSemsetr1\\ProjektSemsetr1.csproj",
+=======
+  "dgSpecHash": "foeuhtdQIEw=",
+  "success": true,
+  "projectFilePath": "Z:\\HelloWorkshop2\\HelloWorkshop2.csproj",
+>>>>>>> 7b28d2548375a3b05c7a9d6fdb51e0adcd344a1d
   "expectedPackageFiles": [],
   "logs": []
 }

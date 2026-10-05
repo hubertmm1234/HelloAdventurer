@@ -8,11 +8,16 @@
     "net10.0": []
   },
   "packageFolders": {
+<<<<<<< HEAD
     "C:\\Users\\Hubert\\.nuget\\packages\\": {}
+=======
+    "C:\\Users\\s37530\\.nuget\\packages\\": {}
+>>>>>>> 7b28d2548375a3b05c7a9d6fdb51e0adcd344a1d
   },
   "project": {
     "version": "1.0.0",
     "restore": {
+<<<<<<< HEAD
       "projectUniqueName": "C:\\Users\\Hubert\\Desktop\\StudiaProjekty\\ProjektSemsetr1\\ProjektSemsetr1.csproj",
       "projectName": "ProjektSemsetr1",
       "projectPath": "C:\\Users\\Hubert\\Desktop\\StudiaProjekty\\ProjektSemsetr1\\ProjektSemsetr1.csproj",
@@ -21,6 +26,16 @@
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Hubert\\AppData\\Roaming\\NuGet\\NuGet.Config"
+=======
+      "projectUniqueName": "Z:\\HelloWorkshop2\\HelloWorkshop2.csproj",
+      "projectName": "HelloWorkshop2",
+      "projectPath": "Z:\\HelloWorkshop2\\HelloWorkshop2.csproj",
+      "packagesPath": "C:\\Users\\s37530\\.nuget\\packages\\",
+      "outputPath": "Z:\\HelloWorkshop2\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\s37530\\AppData\\Roaming\\NuGet\\NuGet.Config"
+>>>>>>> 7b28d2548375a3b05c7a9d6fdb51e0adcd344a1d
       ],
       "originalTargetFrameworks": [
         "net10.0"
