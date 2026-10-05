@@ -12,3 +12,4 @@ C:\Users\Hubert\Desktop\StudiaProjekty\ProjektSemsetr1\obj\Debug\net10.0\refint\
 C:\Users\Hubert\Desktop\StudiaProjekty\ProjektSemsetr1\obj\Debug\net10.0\ProjektSemsetr1.pdb
 C:\Users\Hubert\Desktop\StudiaProjekty\ProjektSemsetr1\obj\Debug\net10.0\ProjektSemsetr1.genruntimeconfig.cache
 C:\Users\Hubert\Desktop\StudiaProjekty\ProjektSemsetr1\obj\Debug\net10.0\ref\ProjektSemsetr1.dll
+C:\Users\Hubert\Desktop\StudiaProjekty\ProjektSemsetr1\obj\Debug\net10.0\ProjektSemsetr1.sourcelink.json
